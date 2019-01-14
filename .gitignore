@@ -1,0 +1,31 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+mvnw.cmd
+mvnw
+.mvn/
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/spacebus300-front-end/node_modules/
+/spacebus300-front-end/dist/
+/spacebus300-front-end/out-tsc/
